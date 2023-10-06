@@ -12,6 +12,7 @@ System.out.println("Appending of two string is:" +str1.toUpperCase());
 
 System.out.println("Appending of two string is:" +str2.toUpperCase());
 
+
 	}
 
 }
